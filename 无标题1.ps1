@@ -1,4 +1,4 @@
-﻿find-module ScriptBrowser | fl
+find-module ScriptBrowser | fl
 
 help save-module -Online
 
